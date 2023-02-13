@@ -1,0 +1,37 @@
+{
+	"file": [
+		{
+				"fileName": "File extension formats1",
+				"menuName": "Test App1",
+				"formats": [{
+					"action1": [{
+						"formatName": "json format",
+						"description": "Supports json"
+					},
+					{
+						"formatName": "xml format",
+						"description": "Supports xml"
+					}
+				]
+			}]
+		},
+		
+		{
+				"fileName": "File extension formats2",
+				"menuName": "Test App2",
+				"formats": [{
+					"action1": [{
+						"formatName": "jpeg format",
+						"description": "Supports jpeg"
+					},
+					{
+						"formatName": "png format",
+						"description": "Supports png"
+					}
+				]
+			}]
+		}
+		
+		
+	]			
+}

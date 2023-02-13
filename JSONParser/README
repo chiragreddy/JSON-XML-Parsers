@@ -1,0 +1,5 @@
+JSON Parser
+--------------
+
+This project demonstrates how we map a java class to a json file and read its elements/contents using Jackson Library
+The class JSONParser parses the request.json file and prints all the elements
