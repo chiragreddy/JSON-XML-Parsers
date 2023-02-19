@@ -1,0 +1,16 @@
+<soapenv:Envelope xmlns:soapenv="http://schema.xmlsoap.org/soap/envelope/" xmlns:wst="http://test.example.requuest.com">
+	<soapenv:Header/>
+	<soapenv:Body>
+		<wst:request>
+			<requestInfo>
+				<name>{1}</name>
+				<description>{2}</description>
+			</requestInfo>
+			<credentials>
+				<username>{3}</username>
+				<password>{4}</password>
+				<token>{5}</token>
+			</credentials>
+		</wst:request>
+	</soapenv:Body>
+</soapenv:Envelope>

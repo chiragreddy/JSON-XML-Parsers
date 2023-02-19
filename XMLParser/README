@@ -1,0 +1,4 @@
+XML Parser
+--------------
+
+This project shows how we can use an xml request as a template and pass paramaters to the template using them for a soap request
